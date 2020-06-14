@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Albert Einstein</o:Author>
   <o:LastAuthor>Albert Einstein</o:LastAuthor>
-  <o:Revision>21</o:Revision>
-  <o:TotalTime>51</o:TotalTime>
+  <o:Revision>16</o:Revision>
+  <o:TotalTime>35</o:TotalTime>
   <o:Created>2020-06-13T22:05:00Z</o:Created>
-  <o:LastSaved>2020-06-14T02:50:00Z</o:LastSaved>
+  <o:LastSaved>2020-06-14T02:02:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>38</o:Words>
-  <o:Characters>220</o:Characters>
+  <o:Words>22</o:Words>
+  <o:Characters>126</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>257</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>147</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -699,7 +699,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	{font-family:"‚l‚r ‚oƒSƒVƒbƒN";
 	panose-1:2 11 6 0 7 2 5 8 2 4;
 	mso-font-charset:128;
-	mso-generic-font-family:swiss;
+	mso-generic-font-family:modern;
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
@@ -723,13 +723,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-generic-font-family:auto;
 	mso-font-pitch:variable;
 	mso-font-signature:553648135 1 0 0 65939 0;}
-@font-face
-	{font-family:Andika;
-	panose-1:2 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611969 1375789567 33554473 0 407 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -776,7 +769,7 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	margin-left:0mm;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"‚l‚r ‚oƒSƒVƒbƒN",sans-serif;
+	font-family:"‚l‚r ‚oƒSƒVƒbƒN";
 	mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";}
 span.SpellE
 	{mso-style-name:"";
@@ -837,8 +830,8 @@ div.WordSection1
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body bgcolor="#CCC0D9" lang=JA link=blue vlink=purple style='tab-interval:
-42.0pt;text-justify-trim:punctuation'>
+<body lang=JA link=blue vlink=purple style='tab-interval:42.0pt;text-justify-trim:
+punctuation'>
 
 <div class=WordSection1 style='layout-grid:18.0pt'>
 
@@ -847,10 +840,8 @@ mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Arial Unicode MS";
 mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><a
 href="https://demisart.github.io/thai-lang.github.io/THAI/CONT/01Greeting/0001.htm">Greetings</a>
 </span><span lang=TH style='font-size:28.0pt;font-family:Sarabun;mso-fareast-font-family:
-"Arial Unicode MS";color:#C00000;mso-bidi-language:TH'><ruby style='ruby-align:
-distribute-space'>&#3585;&#3634;&#3619;&#3605;&#3657;&#3629;&#3609;&#3619;&#3633;&#3610;<rp>(</rp><rt style='font-size:14.0pt;font-family:
-Andika;layout-grid-mode:line'>gaan dt&#596;&#770;&#596;n ra&#769;p</rt><rp>)</rp></ruby></span><span
-lang=TH style='font-size:28.0pt;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+"Arial Unicode MS";mso-bidi-language:TH'>&#3585;&#3634;&#3619;&#3605;&#3657;&#3629;&#3609;&#3619;&#3633;&#3610;</span><span lang=TH
+style='font-size:28.0pt;font-family:"Arial",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Arial Unicode MS";mso-hansi-theme-font:
 major-latin;mso-bidi-font-family:"Angsana New";mso-bidi-language:TH'> </span><span
 class=SpellE><span lang=EN-US style='font-size:18.0pt;font-family:"Arial",sans-serif;
@@ -863,28 +854,10 @@ major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
 <p class=MsoNormal><span lang=EN-US style='font-size:18.0pt;font-family:"Arial",sans-serif;
 mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Arial Unicode MS";
 mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Introducing
-Yourself<a name="_GoBack"></a> </span><span lang=EN-US style='font-size:28.0pt;
-font-family:Sarabun;mso-fareast-font-family:"Arial Unicode MS";color:#C00000;
-mso-bidi-language:TH'>?</span><span lang=EN-US style='font-size:18.0pt;
-font-family:"Arial",sans-serif;mso-ascii-theme-font:major-latin;mso-fareast-font-family:
-"Arial Unicode MS";mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>
-<span class=SpellE>Apresentando</span>-se<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=SpellE><span lang=PT-BR style='font-size:18.0pt;
+Yourself</span><a name="_GoBack"></a><span lang=PT-BR style='font-size:18.0pt;
 font-family:"Arial",sans-serif;mso-ascii-theme-font:major-latin;mso-fareast-font-family:
 "Arial Unicode MS";mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-mso-ansi-language:PT-BR'>Courtesy</span></span><span lang=PT-BR
-style='font-size:18.0pt;font-family:"Arial",sans-serif;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:"Arial Unicode MS";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'> </span><span lang=EN-US
-style='font-size:28.0pt;font-family:Sarabun;mso-fareast-font-family:"Arial Unicode MS";
-color:#C00000;mso-bidi-language:TH'>?</span><span lang=EN-US style='font-size:
-18.0pt;font-family:"Arial",sans-serif;mso-ascii-theme-font:major-latin;
-mso-fareast-font-family:"Arial Unicode MS";mso-hansi-theme-font:major-latin;
-mso-bidi-theme-font:major-latin'> </span><span lang=PT-BR style='font-size:
-18.0pt;font-family:"Arial",sans-serif;mso-ascii-theme-font:major-latin;
-mso-fareast-font-family:"Arial Unicode MS";mso-hansi-theme-font:major-latin;
-mso-bidi-theme-font:major-latin;mso-ansi-language:PT-BR'>Cortesia<o:p></o:p></span></p>
+mso-ansi-language:PT-BR'><o:p></o:p></span></p>
 
 </div>
 
